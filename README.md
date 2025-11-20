@@ -79,4 +79,24 @@ required time. This will enable more participation and generate a healthy compet
 2. Buyers can also plan their procurement effectively by knowing in advance about seller’s availability.
 
    
+The module works by accumulating the demand of a category for a time period (week/month), pre-processing 
+the data and then forecasting the demand for the future. 
+
+![DF12](https://github.com/user-attachments/assets/151b180e-8b9b-41fd-b8e5-e5194126729e)
+
+Integration & API: Developed and integrated FlaskAPI. 
+
+Input: Solution needs a category name or list of categories on which demand has forecast.
+
+![df31](https://github.com/user-attachments/assets/1b3f8034-3635-479f-9b38-ec6c611f6290)
+
+
+Output: It showcases graph of forecasted demand and report gets generated.
+
+![df43](https://github.com/user-attachments/assets/1b406c56-43de-4123-8390-287a90b10546)
+
+
+![df45](https://github.com/user-attachments/assets/751763ed-33bd-4f52-a87a-7009a7ca32e4)
+
+
 
